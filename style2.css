@@ -1,0 +1,25 @@
+body {
+    background-image: url(pexels-iva-muškić-691710.jpg);
+}
+h1 {
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-size: 60px;
+    text-align: right;
+}
+h2 {
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: right;
+}
+a {
+    text-decoration: none;
+    font-size: 45px;
+    margin-top: 450px;
+    display: block;
+    color: aliceblue;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
